@@ -31,7 +31,6 @@
   .product-card {
     background: #fff;
     display: grid;
-    /* align-items: center; */
     grid-template-rows: 55% 45%;
     height: 80%;
     width: 30%;
